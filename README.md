@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Carolina%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o%20%7C%20Em%20busca%20de%20est%C3%A1gio&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.com/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Carolina%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o%20%7C%20Em%20busca%20de%20est%C3%A1gio&descAlignY=55&descSize=24" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Estudante+de+Desenvolvimento+de+Software+Multiplataforma;Apaixonada+por+banco+de+dados+e+l%C3%B3gica;Explorando+desenvolvimento+mobile+com+Dart+%26+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Estudante+de+Desenvolvimento+de+Software+Multiplataforma;Apaixonada+por+banco+de+dados+e+l%C3%B3gica;Explorando+desenvolvimento+mobile+com+Dart+%26+Android" alt="Typing SVG" />
 </a>
 
 <br>
@@ -22,7 +22,7 @@
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** — Fatec Osasco (3º semestre, 08/2026 a 12/2026)
 - 🧭 Ainda explorando qual área seguir — e tá tudo bem, o universo da TI é gigante!
 - 🧩 Curto **fluxogramas**, modelagem de **processos** e **banco de dados**
-- 🐧 Tenho afinidade com **máquinas virtuais Linux**
+- 🐧 Tenho afinidade com **máquinas virtuais Linux pelo Ubuntu**
 - 📱 Já desenvolvi **apps em Android Studio** e estou aprendendo **Dart**
 - 🚀 Buscando uma vaga de **estágio** para aprender na prática e crescer como desenvolvedora
 
@@ -42,7 +42,7 @@
 
 | Nível | Tecnologias |
 |:---:|:---|
-| 🟢 Confortável | HTML, CSS, Banco de dados relacional, Java (Android) |
+| 🟢 Confortável | HTML, CSS, Banco de dados relacional, Java (Android), C |
 | 🟡 Em evolução | JavaScript, Dart |
 | 🟠 Básico / iniciando | Python, C |
 
